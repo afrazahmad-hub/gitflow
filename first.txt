@@ -1,1 +1,3 @@
 this file is for working in git flow
+
+this is new change for checking of resriction on branches
